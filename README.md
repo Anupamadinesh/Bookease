@@ -2,6 +2,32 @@
 
 BookEase is a full-stack web application that allows users to search, reserve, and manage books from local book stalls.
 
+## Live Links
+
+- Frontend: https://bookease-taupe.vercel.app
+- Backend: https://bookease-1-jbfa.onrender.com
+- GitHub: https://github.com/Anupamadinesh/Bookease
+
+## Deployment Details
+
+- Frontend deployed on Vercel
+- Backend deployed on Render
+- Database hosted on Railway MySQL
+
+## Important Note
+
+The backend is hosted on Render free tier. If the service is inactive for some time, it may take around 30–60 seconds to respond on the first request.
+
+## How to Test
+
+1. Open the backend link first:  
+   https://bookease-1-jbfa.onrender.com
+
+2. Wait a few seconds for the backend to wake up if needed.
+
+3. Then open the frontend link:  
+   https://bookease-taupe.vercel.app
+   
 ## Features
 - User & Bookstall Registration/Login
 - Book Search & Reservation
